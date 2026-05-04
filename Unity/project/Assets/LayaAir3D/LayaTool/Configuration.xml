@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>1</FirstlevelMenu>
+    <FirstlevelMenu>0</FirstlevelMenu>
     <Scenes>False</Scenes>
     <ScenesDir>
     </ScenesDir>
@@ -41,7 +41,7 @@
     <Android>False</Android>
     <Conventional>True</Conventional>
     <SavePath>/Users/huangzhuofu/Documents/Projects/Laya_Unity_Demo/Unity/project/Laya_Export</SavePath>
-    <ScrollPositionY>17</ScrollPositionY>
+    <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
     <FirstlevelMenu>0</FirstlevelMenu>

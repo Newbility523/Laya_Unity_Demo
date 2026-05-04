@@ -27,12 +27,12 @@ import Scene=Laya.Scene;]]>   </codeImportsTS>
    <picHeight>512   </picHeight>
    <power2>false   </power2>
    <trimempty>true   </trimempty>
-   <startScene/>
+   <startScene>Start.scene</startScene>
    <engineType>2D   </engineType>
-   <scaleMode>fixedwidth   </scaleMode>
+   <scaleMode>showall   </scaleMode>
    <screenMode>none   </screenMode>
-   <alignV>top   </alignV>
-   <alignH>left   </alignH>
+   <alignV>middle   </alignV>
+   <alignH>center   </alignH>
    <designWidth>640   </designWidth>
    <designHeight>1136   </designHeight>
    <codeViewExportPath>src/view   </codeViewExportPath>
